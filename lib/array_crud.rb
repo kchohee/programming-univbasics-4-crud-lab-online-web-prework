@@ -6,9 +6,15 @@ def create_an_array
   ["idk","omg","wtf","lol"]
 end
 
+<<<<<<< HEAD
 def add_element_to_end_of_array(array, element)
   array.push(element)
   return array
+=======
+def add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
+  add_element_to_end_of_array.push("arrays!")
+  add_element_to_end_of_array.push("element")
+>>>>>>> 5ce353576ea23559cdb1f7719066e760a66664af
 end
 
 def add_element_to_start_of_array(array, element)
